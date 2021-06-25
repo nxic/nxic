@@ -1,5 +1,12 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=fabpot&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+##### Main profile
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nxic&theme=onedark)](https://github.com/nxic)
+
+##### Old profile
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yondonjamts1&theme=onedark)](https://github.com/yondonjamts1)
 <!--
 **nxic/nxic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
