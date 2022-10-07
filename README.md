@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-##### Main profile
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=nxic&theme=onedark)](https://github.com/nxic)
-
-##### Old profile
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yondonjamts1&theme=onedark)](https://github.com/yondonjamts1) -->
 <!--
