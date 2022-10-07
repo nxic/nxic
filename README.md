@@ -6,7 +6,7 @@
 
 ##### Old profile
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yondonjamts1&theme=onedark)](https://github.com/yondonjamts1)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yondonjamts1&theme=onedark)](https://github.com/yondonjamts1) -->
 <!--
 **nxic/nxic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
